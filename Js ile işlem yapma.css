@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+* {
+    text-align: center;
+}
+
+button {
+    background-color: white;
+    color: black;
+    height: 100px;
+    width: 100px;
+    margin-top: 350px;
+    margin-left: 15px;
+}
+
+button:hover {
+    color: red;
+}
